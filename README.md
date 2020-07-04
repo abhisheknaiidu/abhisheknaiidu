@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**abhisheknaiidu/abhisheknaiidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋🏽
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help! 
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him 🚵🏽‍♀️
--->
+
