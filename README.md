@@ -1,5 +1,7 @@
 ### Hi there 👋🏽
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
 - 🔭 I’m currently working on some Open Source Projects 👨🏽‍💻
 - 🌱 I’m currently learning React, C++ 😉
 - 👯 I’m looking to collaborate on Open Source Projects 🤝
