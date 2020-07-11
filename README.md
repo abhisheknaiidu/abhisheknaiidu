@@ -28,7 +28,9 @@
 Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and Former Research Intern [@IIT Hyderabad](https://iith.ac.in/)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-**Talking about personal stuff's:**
+  
+**Talking about personal stuffs:**
+
 - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP)
 - 🌱 I’m currently learning GraphQL and C++ 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝
