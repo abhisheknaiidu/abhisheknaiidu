@@ -29,9 +29,9 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently working on some Open Source Projects 
-- 🌱 I’m currently learning React, C++ 😉
-- 👯 I’m looking to collaborate on Open Source Projects 🤝
+- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP)
+- 🌱 I’m currently learning GraphQL and C++ 
+- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help! 
 - 📫 How to reach me: geekyabhi12@gmail.com || me@abhisheknaidu.tech
