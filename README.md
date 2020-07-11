@@ -8,6 +8,9 @@
 - 📫 How to reach me: abhisheknaidu.tech || me@abhisheknaidu.tech
 - 😄 Pronouns: he/him 🚵🏽‍♀️
 
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+
+
 <a href="https://github.com/abhisheknaiidu/A-POP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
 </a>
