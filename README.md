@@ -8,3 +8,10 @@
 - 📫 How to reach me: abhisheknaidu.tech || me@abhisheknaidu.tech
 - 😄 Pronouns: he/him 🚵🏽‍♀️
 
+<a href="https://github.com/abhisheknaiidu/Todoist-Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=Todoist-Stats" />
+</a>
+
+<a href="https://github.com/abhisheknaiidu/waka-box">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=waka-box" />
+</a>
