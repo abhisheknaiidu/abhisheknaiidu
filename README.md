@@ -33,10 +33,11 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
 - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
 - 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP); 🤝
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: geekyabhi12@gmail.com || me@abhisheknaidu.tech ;
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT Aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/). Sold almost **750+** Notes so far!
+- 📫 How to reach me: geekyabhi12@gmail.com || me@abhisheknaidu.tech;
 
 **Languages and Tools:**  
 
