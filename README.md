@@ -1,4 +1,4 @@
-### Hi there, I'm [Abhishek!](https://abhisheknaidu.tech) 👋🏽
+### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
 <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and Former Research Intern [@IIT Hyderabad](https://iith.ac.in/)
+Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -36,8 +36,9 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT Aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/). Sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com || me@abhisheknaidu.tech;
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018.Sold almost **750+** Notes so far!
+- 📫 How to reach me: geekyabhi12@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 **Languages and Tools:**  
 
