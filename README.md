@@ -64,6 +64,6 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+<a href="https://github.com/abhisheknaiidu/abhisheknaiidu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=abhisheknaiidu" />
 </a>
