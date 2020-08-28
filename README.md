@@ -1,7 +1,5 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Abhishek!](https://abhisheknaidu.tech) 
-
 <br/>
-
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -54,7 +52,7 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Vue.js       8 hrs 32 mins   ██████████████▓░░░░░░░░░░   59.07 % 
@@ -65,6 +63,11 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true" alt="abhisheknaiidu" />
+
+</details>
 
 
