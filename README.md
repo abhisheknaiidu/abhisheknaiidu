@@ -59,6 +59,13 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       8 hrs 32 mins   ██████████████▓░░░░░░░░░░   59.07 % 
+C++          3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
+Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JavaScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+```
 <!--END_SECTION:waka-->
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
