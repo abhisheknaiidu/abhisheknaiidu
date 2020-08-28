@@ -57,7 +57,7 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+📊 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
 Vue.js       8 hrs 32 mins   ██████████████▓░░░░░░░░░░   59.07 % 
