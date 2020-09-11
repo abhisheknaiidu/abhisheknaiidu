@@ -69,6 +69,9 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 </details>
 
 <!-- TODO-IST:START -->
-🌈 2,806 Karma Points           🌸 Completed 3 tasks today           ✅ Completed 153 tasks so far           ⌛ Longest streak is 10 days
+🌈 2,806 Karma Points           
+🌸 Completed 0 tasks today           
+✅ Completed 153 tasks so far           
+⌛ Longest streak is 10 days
 <!-- TODO-IST:END -->
 
