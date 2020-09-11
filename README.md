@@ -61,6 +61,14 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+🛠 **Todoist Stats**
+<!-- TODO-IST:START -->
+🌈 2,806 Karma Points           
+🌸 Completed 0 tasks today           
+✅ Completed 153 tasks so far           
+⌛ Longest streak is 10 days
+<!-- TODO-IST:END -->
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
@@ -68,10 +76,5 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 
 </details>
 
-<!-- TODO-IST:START -->
-🌈 2,806 Karma Points           
-🌸 Completed 0 tasks today           
-✅ Completed 153 tasks so far           
-⌛ Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
