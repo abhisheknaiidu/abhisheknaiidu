@@ -5,12 +5,13 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
-
+      
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
