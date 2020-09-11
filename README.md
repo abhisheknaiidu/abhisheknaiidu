@@ -62,15 +62,15 @@ YAML         45 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
-```md
 <!-- TODO-IST:START -->
+```md
 🏆  2,806 Karma Points           
 🌸  Completed 4 tasks today           
 🗓  Completed 13 tasks this week           
 ✅  Completed 157 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 ```
+<!-- TODO-IST:END -->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
