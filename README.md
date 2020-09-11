@@ -61,7 +61,7 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🛠 **Todoist Stats**
+🛠 **Todoist Stats:**
 <!-- TODO-IST:START -->
 🌈 2,806 Karma Points           
 🌸 Completed 0 tasks today           
