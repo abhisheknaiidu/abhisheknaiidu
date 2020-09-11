@@ -73,5 +73,6 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 🌸 Completed 3 tasks today
 ✅ Completed 153 tasks so far
 ⌛ Longest streak is 10 days
+
 <!-- TODO-IST:END -->
 
