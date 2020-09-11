@@ -69,6 +69,5 @@ YAML         35 mins         ▓░░░░░░░░░░░░░░░░
 </details>
 
 <!-- TODO-IST:START -->
-
 <!-- TODO-IST:END -->
 
