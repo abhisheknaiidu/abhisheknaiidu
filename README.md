@@ -63,7 +63,7 @@ YAML         52 mins         █░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  3,177 Karma Points           
+🏆  3,205 Karma Points           
 🌸  Completed 5 tasks today           
 🗓  Completed 5 tasks this week           
 ✅  Completed 179 tasks so far           
