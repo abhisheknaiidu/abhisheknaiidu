@@ -63,7 +63,7 @@ JSON         30 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  3,301 Karma Points           
+🏆  3,307 Karma Points           
 🌸  Completed 6 tasks today           
 🗓  Completed 13 tasks this week           
 ✅  Completed 187 tasks so far           
