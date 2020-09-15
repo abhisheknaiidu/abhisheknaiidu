@@ -60,7 +60,6 @@ YAML         31 mins         ▓░░░░░░░░░░░░░░░░
 JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
- <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=abhisheknaiidu" width="400" height="400" />
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
