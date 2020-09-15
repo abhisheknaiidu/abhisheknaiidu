@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -60,15 +60,17 @@ YAML         31 mins         ▓░░░░░░░░░░░░░░░░
 JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
+ <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=abhisheknaiidu" width="400" height="400" />
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  3,253 Karma Points           
-🌸  Completed 6 tasks today           
-🗓  Completed 13 tasks this week           
-✅  Completed 187 tasks so far           
+🏆  3,229 Karma Points           
+🌸  Completed 1 tasks today           
+🗓  Completed 8 tasks this week           
+✅  Completed 182 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+
 
 <details>
 <summary>📈 My GitHub Stats</summary>
