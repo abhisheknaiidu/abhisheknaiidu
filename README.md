@@ -63,9 +63,9 @@ Text         7 mins          ▒░░░░░░░░░░░░░░░░
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  3,716 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 214 tasks so far           
+🌸  Completed 3 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 217 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
