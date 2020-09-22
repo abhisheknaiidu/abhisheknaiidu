@@ -34,7 +34,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 **Languages and Tools:**  
