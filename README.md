@@ -63,10 +63,10 @@ Markdown     17 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  4,715 Karma Points           
-🌸  Completed 6 tasks today           
-🗓  Completed 6 tasks this week           
-✅  Completed 296 tasks so far           
+🏆  4,763 Karma Points           
+🌸  Completed 7 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 297 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
