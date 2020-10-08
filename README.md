@@ -63,7 +63,7 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  4,819 Karma Points           
+🏆  4,867 Karma Points           
 🌸  Completed 11 tasks today           
 🗓  Completed 22 tasks this week           
 ✅  Completed 312 tasks so far           
