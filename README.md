@@ -63,10 +63,10 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  4,795 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 11 tasks this week           
-✅  Completed 301 tasks so far           
+🏆  4,819 Karma Points           
+🌸  Completed 11 tasks today           
+🗓  Completed 22 tasks this week           
+✅  Completed 312 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
