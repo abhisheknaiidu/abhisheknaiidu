@@ -64,7 +64,7 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  5,483 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 33 tasks this week           
 ✅  Completed 364 tasks so far           
 ⏳  Longest streak is 10 days
