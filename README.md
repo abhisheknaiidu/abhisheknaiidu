@@ -63,10 +63,10 @@ Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  5,761 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 394 tasks so far           
+🏆  5,782 Karma Points           
+🌸  Completed 9 tasks today           
+🗓  Completed 9 tasks this week           
+✅  Completed 403 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
