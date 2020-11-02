@@ -61,7 +61,7 @@ Text         14 mins         ▓░░░░░░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  5,825 Karma Points           
+🏆  5,868 Karma Points           
 🌸  Completed 3 tasks today           
 🗓  Completed 3 tasks this week           
 ✅  Completed 406 tasks so far           
