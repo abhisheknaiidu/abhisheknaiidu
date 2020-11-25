@@ -53,7 +53,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++    40 mins         ████████████████████████▓   99.31 % 
+C++    38 mins         █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
 
