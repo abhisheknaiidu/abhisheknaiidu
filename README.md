@@ -60,9 +60,9 @@ C++    12 mins         ███████▒░░░░░░░░░░░
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  6,128 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 450 tasks so far           
+🏆  6,149 Karma Points           
+🌸  Completed 9 tasks today           
+✅  Completed 459 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
