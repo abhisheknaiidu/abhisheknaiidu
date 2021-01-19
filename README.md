@@ -47,7 +47,8 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++    15 mins         ██████████████████████▒░░   89.97 % 
+Text   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 <!--END_SECTION:waka-->
 
