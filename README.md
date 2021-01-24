@@ -62,7 +62,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  6,956 Karma Points           
-🌸  Completed 6 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 530 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
