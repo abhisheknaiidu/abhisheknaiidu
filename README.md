@@ -26,7 +26,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/abhishknads)
-- 📝[Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
 
 **Languages and Tools:**  
 
