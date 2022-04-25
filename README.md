@@ -43,10 +43,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   17 hrs          ████████████████████▒░░░░   81.58 %
-TypeScript   2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Groovy       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript   15 hrs 10 mins  ██████████████████████▒░░   88.82 %
+TypeScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
