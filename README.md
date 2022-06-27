@@ -43,11 +43,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 58 mins   ████████████████▓░░░░░░░░   66.09 %
-JavaScript   3 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-SCSS         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   5 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.00 %
+JavaScript   4 hrs 14 mins   ███████████░░░░░░░░░░░░░░   44.47 %
+SCSS         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
