@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   7 hrs 9 mins    ████████████████████████░   96.62 %
 Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
