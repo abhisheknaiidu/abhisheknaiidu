@@ -25,11 +25,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    10 hrs 33 mins  ████████████████████████░   96.02 %
-JavaScript    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSS           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript     10 hrs 33 mins  ███████████████████████▒░   92.82 %
+JavaScript     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Bash           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+ActionScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+CSS            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
