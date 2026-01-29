@@ -1,0 +1,33 @@
+name: Github Status Readme
+
+on:
+  schedule:
+    # Runs once daily at midnight
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build-card:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=saturn-abhishek&show_icons=true&theme=gotham
+          path: .github/git-stats.svg
+          # token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/git-stats.svg
+          git commit -m "Updated github-readme-stats with new metrics" || exit 0
+          git push
