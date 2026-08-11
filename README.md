@@ -28,7 +28,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<div align="center">
+  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheknaiidu&theme=aura)
+</div>
 
 
 
